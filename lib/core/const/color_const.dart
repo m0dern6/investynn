@@ -9,6 +9,7 @@ class AppColors {
   static const primary300 = Color(0xFF1E88E5);
   static const primary400 = Color(0xFF155FA0);
   static const primary500 = Color(0xFF12538C);
+  static const primary600 = Color(0xff145ED2);
 
   // Success
   static const success50 = Color(0xFFE9F9EF);
